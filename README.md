@@ -139,7 +139,7 @@ book-store/
 ##  ⚙️ Installation & Setup
 1️⃣ Clone Repository
 ```
-git clone 
+git clone https://github.com/Dharmndr/Book-Listing-Web-Application.git
 cd book-store
 ```
 2️⃣ Install Dependencies
